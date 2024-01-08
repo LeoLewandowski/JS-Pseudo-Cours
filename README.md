@@ -12,4 +12,6 @@ Si vous voulez ajouter des trucs hésitez pas, et si je fais des erreurs dites-l
 ### Bases
 
 - [Ecriture du JS](./Bases/Ecriture.md)
+- [Logique & Autres](./Bases/Logique.md)
 - [Variables et constantes](./Bases/Variables-et-constantes.md)
+- [Fonctions & paramètres](./Bases/Fonctions.md)

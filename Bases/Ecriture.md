@@ -18,6 +18,17 @@ const j = 5;
 
 En JS, les blocs de code sont définis entre accolades, comme la plupart des langages. L'indentation n'a aucun effet, si ce n'est la facilité de lecture et de compréhension du code.
 
+### Commentaires
+
+Les commentaires du JS sont commme ceux du C++ :
+
+```js
+// Single-line
+
+/* Multi
+   Line */
+```
+
 ## Complémentaires
 
 ### Convention de nommage
